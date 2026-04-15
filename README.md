@@ -15,6 +15,6 @@
 
 #### 🧰 Araçlar & Diğer
 [![My Skills](https://skillicons.dev/icons?i=vscode,postman,ps,discord)](https://skillicons.dev)
-> **Not:** Geliştirme süreçlerimde **Claude AI** ile işbirliği yapıyorum.
+
 
 
