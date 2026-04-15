@@ -19,20 +19,8 @@ Yazılım dünyasında karmaşık sistemleri otomatize etmeyi ve ölçeklenebili
 [![My Skills](https://skillicons.dev/icons?i=vscode,postman,ps,discord)](https://skillicons.dev)
 > **Not:** Geliştirme süreçlerimde **Claude AI** ile işbirliği yapıyorum.
 
----
 
-### 📊 GitHub İstatistiklerim
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADINIZ_BURAYA&show_icons=true&theme=dark&hide_border=true" alt="İstatistikler" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADINIZ_BURAYA&layout=compact&theme=dark&hide_border=true" alt="Diller" />
-</p>
-
----
-
-### 📫 Bana Ulaşın
-- **LinkedIn:** [linkedin.com/in/KULLANICI_ADINIZ](https://linkedin.com/in/KULLANICI_ADINIZ)
-- **Email:** eposta@adresiniz.com
 
 ---
 <p align="center">
