@@ -1,6 +1,6 @@
 ---
 
-###  Teknolojik Donanımım
+### 
 
 #### 
 [![My Skills](https://skillicons.dev/icons?i=php,typescript,go,js,nextjs,react,html,css,jquery,tailwind)](https://skillicons.dev)
