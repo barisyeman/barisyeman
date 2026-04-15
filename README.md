@@ -3,7 +3,7 @@
 ### 
 
 #### 
-[![My Skills](https://skillicons.dev/icons?i=php,typescript,go,js,nextjs,react,html,css,jquery,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,typescript,go,nodejs,js,nextjs,react,html,css,jquery,tailwind)](https://skillicons.dev)
 
 ####  Data
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis,kafka,rabbitmq)](https://skillicons.dev)
