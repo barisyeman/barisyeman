@@ -1,6 +1,4 @@
-# Selam! Ben [Adın Buraya] 👋
-
-Yazılım dünyasında karmaşık sistemleri otomatize etmeyi ve ölçeklenebilir altyapılar kurmayı seviyorum. PHP'den Go'ya, veritabanı yönetiminden Kubernetes orkestrasyonuna kadar geniş bir yelpazede çözümler üretiyorum.
+# Selam! Ben BARIŞ YEMAN 👋
 
 ---
 
@@ -20,9 +18,3 @@ Yazılım dünyasında karmaşık sistemleri otomatize etmeyi ve ölçeklenebili
 > **Not:** Geliştirme süreçlerimde **Claude AI** ile işbirliği yapıyorum.
 
 
-
-
----
-<p align="center">
-  <i>Bu profil sayfası bir AI asistanı (Claude) desteğiyle optimize edilmiştir.</i>
-</p>
