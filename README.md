@@ -1,5 +1,3 @@
-# Selam! Ben BARIŞ YEMAN 👋
-
 ---
 
 ###  Teknolojik Donanımım
