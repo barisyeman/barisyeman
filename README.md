@@ -10,7 +10,7 @@
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,redis,kafka)](https://skillicons.dev)
 
 ####  DevOps
-[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,aws,nginx,dokploy,powershell)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,aws,nginx,powershell)](https://skillicons.dev)
 
 ####  İşletim Sistemi
 [![My Skills](https://skillicons.dev/icons?i=windows,ubuntu)](https://skillicons.dev)
