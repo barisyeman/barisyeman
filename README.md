@@ -1,7 +1,9 @@
-Hi, I'm Barış Yeman.
-I'm a developer with a strong interest in real-time systems, especially WebRTC, WebSocket, and networking technologies like TURN and STUN. I'm also a Meta Business Partner working on WhatsApp-based solutions.
-I’ve been interested in building web applications since I was 10 years old. While I have a solid background in PHP, I also actively develop projects using Node.js, TypeScript, and Next.js.
-Lately, I’ve been exploring Haskell out of curiosity and interest in functional programming.
+Hi,
+I'm a developer with a strong interest in real-time systems, including WebRTC, WebSocket, and networking technologies like TURN and STUN. I'm also a Meta Business Partner working on WhatsApp-based solutions.
+
+I have a background in PHP and actively build projects using Node.js, TypeScript, and Next.js.
+
+Recently, I’ve been exploring Haskell out of curiosity and a growing interest in functional programming.
 
 ###  Tech Stack
 
