@@ -25,15 +25,3 @@ Recently, I’ve been exploring Haskell out of curiosity and a growing interest 
 ####  Araçlar
 [![My Skills](https://skillicons.dev/icons?i=vscode,postman,ps,discord)](https://skillicons.dev)
 
-
-        ,_---~~~~~----._
-  _,,_,*^____      _____``*g*\"*,
- / __/ /'     ^.  /      \ ^@q   f
-[  @f | @))    |  | @))   l  0 _/
- \`/   \~____ / __ \_____/    \
-  |           _l__l_           I
-  }          [______]          I
-  ]            | | |           |
-  ]             ~ ~            |
-  |                            |
-   |                           |
