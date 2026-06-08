@@ -5,6 +5,6 @@ I have a background in PHP and actively build projects using TypeScript, and Nex
 
 Recently, I’ve been exploring Haskell out of curiosity and a growing interest in functional programming.
 
-[![My Skills](https://skillicons.dev/icons?i=windows,ubuntu)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows,popos)](https://skillicons.dev)
 
 
